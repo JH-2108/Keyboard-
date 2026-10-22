@@ -1,12 +1,12 @@
-Component,Purpose,Quantity,Price (USD),Vendor,Purchase Link,Notes
-Custom 87-key TKL PCB,Main circuit board for keyboard matrix and peripherals,1,15.00,JLCPCB,https://jlcpcb.com/,Custom fabrication; confirm PCB design before ordering
-Raspberry Pi Pico RP2040,Scans the keyboard matrix and controls peripherals,1,4.99,Synacorp Malaysia,https://synacorp.my/v3/en/Raspberry-Pi/3193-2379-rpi-pico-rp2040-dual-core-microcontroller-board.html,Confirm board connector and pinout
-MX-compatible tactile mechanical switches,Direct-solder switches for all keys,87,0.34,Mecha Malaysia,https://mecha.com.my/collections/kailh,No hot-swap sockets; select compatible switch type
-1N4148 switching diodes,Prevents unwanted electrical interactions in the keyboard matrix,87,0.05,Shopee Malaysia,https://shopee.com.my/100PCS-1N4148-IN4148-4148-DO-35-Switching-Diode-i.133036903.6201468520,100-piece listing; one diode per key
-0.91-inch I2C OLED display,Displays keyboard status and custom information,1,3.00,Cytron Malaysia,https://my.cytron.io/search?tag=OLED,Confirm 4-pin I2C pinout dimensions and voltage
-EC11 rotary encoder with push button,Provides rotary input and a clickable control,1,1.10,Shopee Malaysia,https://shopee.com.my/5-2pcs-EC11-Encoder-with-Switch-20-Position-Incremental-360-Rotary-Encoder-Knob-Button-Switch-EC11-Arduino-Digital-Potentiometer-15-20mm-Plum-Half-Shaft-i.1243827174.24389043854,Confirm shaft dimensions and PCB footprint
-87-key compatible keycap set,Provides key labels and typing surface,1,12.00,Shopee Malaysia,https://shopee.com.my/search?keyword=87%20key%20TKL%20PBT%20keycap%20set,Confirm ANSI layout and keycap sizes
-TKL stabilizer set,Stabilizes Spacebar Enter Backspace and Shift keys,1,8.00,Shopee Malaysia,https://shopee.com.my/search?keyword=TKL%20keyboard%20stabilizer%20set,Confirm PCB-mount or plate-mount compatibility
-Rotary encoder knob,Provides a grip for turning the encoder,1,1.00,AliExpress,https://www.aliexpress.com/,Match knob to encoder shaft
-USB data cable,Connects the keyboard to a computer for power and data,1,2.00,Shopee Malaysia,https://shopee.com.my/search?keyword=micro%20USB%20data%20cable,Micro-USB data cable for standard Raspberry Pi Pico
-Keyboard case and plate,Supports the PCB and provides the enclosure,1,8.00,Print Legion,https://printlegion.com/,Confirm service availability and case dimensions
+Component,Purpose,Quantity,Unit Price (USD),Total Price (USD),Vendor,Purchase Link,Notes
+Custom 87-key TKL PCB,Main circuit board for keyboard matrix and peripherals,1,15.00,15.00,JLCPCB,https://jlcpcb.com/,Custom fabrication; confirm PCB design before ordering
+Raspberry Pi Pico RP2040,Scans the keyboard matrix and controls peripherals,1,4.99,4.99,Synacorp Malaysia,https://synacorp.my/v3/en/Raspberry-Pi/3193-2379-rpi-pico-rp2040-dual-core-microcontroller-board.html,Confirm board connector and pinout
+MX-compatible tactile mechanical switches,Direct-solder switches for all keys,87,0.34,29.58,Mecha Malaysia,https://mecha.com.my/collections/kailh,No hot-swap sockets; select compatible switch type
+1N4148 switching diodes,Prevents unwanted electrical interactions in the keyboard matrix,87,0.05,4.35,Shopee Malaysia,https://shopee.com.my/100PCS-1N4148-IN4148-4148-DO-35-Switching-Diode-i.133036903.6201468520,100-piece listing; one diode per key
+0.91-inch I2C OLED display,Displays keyboard status and custom information,1,3.00,3.00,Cytron Malaysia,https://my.cytron.io/search?tag=OLED,Confirm 4-pin I2C pinout dimensions and voltage
+EC11 rotary encoder with push button,Provides rotary input and a clickable control,1,1.10,1.10,Shopee Malaysia,https://shopee.com.my/5-2pcs-EC11-Encoder-with-Switch-20-Position-Incremental-360-Rotary-Encoder-Knob-Button-Switch-EC11-Arduino-Digital-Potentiometer-15-20mm-Plum-Half-Shaft-i.1243827174.24389043854,Confirm shaft dimensions and PCB footprint
+87-key compatible keycap set,Provides key labels and typing surface,1,12.00,12.00,Shopee Malaysia,https://shopee.com.my/search?keyword=87%20key%20TKL%20PBT%20keycap%20set,Confirm ANSI layout and keycap sizes
+TKL stabilizer set,Stabilizes Spacebar Enter Backspace and Shift keys,1,8.00,8.00,Shopee Malaysia,https://shopee.com.my/search?keyword=TKL%20keyboard%20stabilizer%20set,Confirm PCB-mount or plate-mount compatibility
+Rotary encoder knob,Provides a grip for turning the encoder,1,1.00,1.00,AliExpress,https://www.aliexpress.com/,Match knob to encoder shaft
+Keyboard case and plate,Supports the PCB and provides the enclosure,1,8.00,8.00,Print Legion,https://printlegion.com/,Confirm service availability and case dimensions
+TOTAL,,,,86.02,,,Estimated total excluding shipping and taxes
